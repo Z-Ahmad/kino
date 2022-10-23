@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const Home: NextPage = () => {
   return (
-    <div className='relative h-screen bg-black'>
+    <div className='relative h-screen bg-zinc-900'>
       <Head>
         <title>Home - Kino</title>
         <link rel="icon" href="/favicon.ico" />
